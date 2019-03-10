@@ -19,6 +19,7 @@
 #define _EXYNOS_VIDEO_API_H_
 
 #include "exynos_v4l2.h"
+#include "linux/exynos_mfc_media.h"
 
 /* Fixed */
 #define VIDEO_BUFFER_MAX_PLANES 3
